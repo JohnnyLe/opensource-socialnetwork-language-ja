@@ -10,7 +10,7 @@
  */
 
 $en = array(
-	'home' => 'Home',
+	'home' => 'ホーム画面',
 	'site:index' => 'Welcome',
 	'news:feed' => 'News Feed',
 	'new:feed' => 'News Feed',
