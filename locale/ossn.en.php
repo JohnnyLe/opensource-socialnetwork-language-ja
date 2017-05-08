@@ -28,8 +28,8 @@ $en = array(
 	
 	'name' => 'Name',
 	'birthdate' => 'Birthdate',
-	'first:name' => 'First Name',
-	'last:name' => 'Last Name',
+	'first:name' => '医療機関名',
+	'last:name' => '医師氏名',
 	'email' => 'Email',
 	'email:again' => 'Re-enter Email',
 	'username' => 'Username',
