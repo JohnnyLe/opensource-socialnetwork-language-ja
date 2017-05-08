@@ -10,7 +10,7 @@
  */
 
 $en = array(
-	'home' => 'ホーム画面',
+	'home' => 'Home',
 	'site:index' => 'Welcome',
 	'news:feed' => 'News Feed',
 	'new:feed' => 'News Feed',
@@ -32,7 +32,7 @@ $en = array(
 	'last:name' => '医師氏名',
 	'email' => 'Email',
 	'email:again' => 'Re-enter Email',
-	'username' => 'Username',
+	'username' => 'Registerd Dr Number',
 	'password' => 'Password',
 	'day' => 'Day',
 	'month' => 'Month',
@@ -130,8 +130,8 @@ You may copy and paste the address to your browser manually in case the link doe
 	'theme:install:notice' => 'Upload a valid .zip theme package.',
 	'com:install:notice' => 'Upload a valid .zip component package.',
 	
-	'login:error' => 'Invalid username or passsword!',
-	'login:error:sub' => "We couldn't log you in. Please check your username or password and try again.",
+	'login:error' => 'Invalid Registerd Dr Number or passsword!',
+	'login:error:sub' => "We couldn't log you in. Please check your Registerd Dr Number or password and try again.",
 	'login:success' => 'You are now logged in!',
 	'com:installed' => 'Component has been uploaded to your components list, you can now enable it from components page.',
 	'com:install:error' => 'Cannot upload component, make sure it is a valid package.',
@@ -149,13 +149,13 @@ You may copy and paste the address to your browser manually in case the link doe
 	'theme:install:error' => 'Unable to install theme. Make sure it is compatible with the OSSN version you are using.',
 	
 	'fields:require' => 'All fields are required!',
-	'username:error' => 'Username is invalid.',
+	'username:error' => 'Registerd Dr Number is invalid.',
 	'password:error' => 'Password must be more than 5 characters.',
 	'account:created' => 'Your account has been created.',
 	'account:create:error:admin' => 'Account registration failed! Please try again later.',
 	'user:updated' => 'User has been updated!',
 	'logged:out' => 'You are now logged out!',
-	'username:inuse' => 'The following username has already been used. Please select a different username.',
+	'username:inuse' => 'The following Registerd Dr Number has already been used. Please select a different Registerd Dr Number.',
 	'email:inuse' => 'The email address you used already exists in our database. Please try another email address.',
 	'email:invalid' => 'Email address is invalid! Make sure the email address you entered is correct.',
 	'email:error:matching' => "Email addresses do not match.",
